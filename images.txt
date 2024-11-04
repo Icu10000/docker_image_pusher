@@ -28,8 +28,3 @@ docker.io/nvidia/cuda:11.7.1-cudnn8-devel-ubuntu22.04
 docker.io/nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu22.04
 docker.io/nvidia/cuda:11.7.1-devel-ubuntu22.04
 docker.io/nvidia/cuda:11.7.1-runtime-ubuntu22.04
-docker.io/nvidia/cuda:11.7.0-base-ubuntu22.04
-docker.io/nvidia/cuda:11.7.0-cudnn8-devel-ubuntu22.04
-docker.io/nvidia/cuda:11.7.0-cudnn8-runtime-ubuntu22.04
-docker.io/nvidia/cuda:11.7.0-devel-ubuntu22.04
-docker.io/nvidia/cuda:11.7.0-runtime-ubuntu22.04
